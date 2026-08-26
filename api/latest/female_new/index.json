@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-24",
-  "prev_date": "2026-08-23",
+  "date": "2026-08-26",
+  "prev_date": "2026-08-24",
   "types": [
     {
       "type": "all",
       "url": "api/latest/female_new/all.json",
       "category_count": 18,
-      "book_count": 530
+      "book_count": 540
     },
     {
       "type": "古风世情",
@@ -51,7 +51,7 @@
     {
       "type": "宫斗宅斗",
       "url": "api/latest/female_new/%E5%AE%AB%E6%96%97%E5%AE%85%E6%96%97.json",
-      "book_count": 20
+      "book_count": 30
     },
     {
       "type": "悬疑脑洞",
