@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-31",
-  "prev_date": "2026-08-30",
+  "date": "2026-09-01",
+  "prev_date": "2026-08-31",
   "types": [
     {
       "type": "all",
       "url": "api/latest/female_read/all.json",
       "category_count": 18,
-      "book_count": 540
+      "book_count": 537
     },
     {
       "type": "古风世情",
       "url": "api/latest/female_read/%E5%8F%A4%E9%A3%8E%E4%B8%96%E6%83%85.json",
-      "book_count": 30
+      "book_count": 29
     },
     {
       "type": "科幻末世",
@@ -91,7 +91,7 @@
     {
       "type": "豪门总裁",
       "url": "api/latest/female_read/%E8%B1%AA%E9%97%A8%E6%80%BB%E8%A3%81.json",
-      "book_count": 30
+      "book_count": 28
     },
     {
       "type": "民国言情",
